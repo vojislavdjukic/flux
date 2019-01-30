@@ -1,0 +1,24 @@
+Mean and median (and 99th p)fct for result_conf_fastpass_perfect.txt is 1347.1 -- 63.5 -- 10079.2248
+Mean and median (and 99th p)fct for result_conf_fastpass_50_00.txt is 1423.0 -- 81.5 -- 11608.7962
+Mean and median (and 99th p)fct for result_conf_fastpass_mean.txt is 1624.0 -- 125.0 -- 12654.4007
+Mean and median (and 99th p)fct for result_conf_phost_perfect.txt is 2304.7 -- 87.0 -- 22265.6871
+Mean and median (and 99th p)fct for result_conf_phost_50_00.txt is 2375.6 -- 85.1 -- 21929.0608
+Mean and median (and 99th p)fct for result_conf_phost_mean.txt is 2505.2 -- 104.1 -- 22768.2671
+Mean and median (and 99th p)fct for result_conf_pfabric_perfect.txt is 3306.4 -- 38.2 -- 51022.5362
+Mean and median (and 99th p)fct for result_conf_pfabric_50_00.txt is 3841.5 -- 39.9 -- 65179.5898
+Mean and median (and 99th p)fct for result_conf_pfabric_seq.txt is 4415.9 -- 38.6 -- 88313.5347
+Mean and median (and 99th p)fct for result_conf_fifo.txt is 4746.5 -- 81.9 -- 65475.1301
+Mean and median (and 99th p)fct for result_conf_pfabric_mean.txt is 5222.3 -- 577.4 -- 82870.8822
+
+Mean and median (and 99th p)slowdown for result_conf_pfabric_perfect.txt is 1.9 -- 1.2 -- 9.8439
+Mean and median (and 99th p)slowdown for result_conf_fastpass_perfect.txt is 1.9 -- 1.9 -- 3.4388
+Mean and median (and 99th p)slowdown for result_conf_pfabric_seq.txt is 2.4 -- 1.2 -- 19.6469
+Mean and median (and 99th p)slowdown for result_conf_phost_perfect.txt is 2.4 -- 2.3 -- 5.1844
+Mean and median (and 99th p)slowdown for result_conf_phost_50_00.txt is 2.5 -- 2.3 -- 6.4901
+Mean and median (and 99th p)slowdown for result_conf_fastpass_50_00.txt is 2.5 -- 2.1 -- 8.009
+Mean and median (and 99th p)slowdown for result_conf_pfabric_50_00.txt is 3.2 -- 1.3 -- 18.8183
+Mean and median (and 99th p)slowdown for result_conf_phost_mean.txt is 4.3 -- 2.7 -- 43.5432
+Mean and median (and 99th p)slowdown for result_conf_fifo.txt is 4.3 -- 2.4 -- 28.4604
+Mean and median (and 99th p)slowdown for result_conf_fastpass_mean.txt is 6.6 -- 2.1 -- 54.525
+Mean and median (and 99th p)slowdown for result_conf_pfabric_mean.txt is 23.3 -- 6.0 -- 282.6035
+

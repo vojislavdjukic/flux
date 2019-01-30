@@ -1,0 +1,5 @@
+init_cwnd: 12
+max_cwnd: 15
+retx_timeout: 45e-06
+flow_type: 2
+host_type: 1

@@ -1,0 +1,1 @@
+trace_location: ../../../data/simulator/SGD/0.csv
